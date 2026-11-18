@@ -1,0 +1,5 @@
+{"question": "¿Cuál es el descuento máximo en A1?", "should_abstain": false}
+{"question": "¿A2 exige MFA?", "should_abstain": false}
+{"question": "¿Cuál es el límite comercial?", "should_abstain": false}
+{"question": "política de viajes interplanetarios 2099", "should_abstain": true}
+{"question": "precio secreto del producto Zeta en Marte", "should_abstain": true}
